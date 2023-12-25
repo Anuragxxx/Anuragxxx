@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anuragxxx
+- 👋 Hi, I’m Anurag
 - 👀 I’m interested in coding and games
 - 🌱 I’m currently pursuing Computer Science Engineering
 - 💞️ I’m looking to collaborate on basic coding pragrammes
